@@ -1,4 +1,4 @@
-# Geospacial Data Visualisation with Hover Fuctionality
+# Geospatial Data Visualisation with Hover Fuctionality
 
 Project Description 
 
